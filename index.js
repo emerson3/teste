@@ -19,3 +19,6 @@ $(".gabriel").on("click", function() {
 $(".lucas").on("click", function() {
     $(".lucas").show();
 })
+$(".andressa").on("click", function() {
+    $(".andressa").show();
+})
