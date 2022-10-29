@@ -1,3 +1,3 @@
-$(".motivacional").on("click", function() {
-    $(".motivacional").show();
+$(".gustavo").on("click", function() {
+    $(".gustavo").show();
 })
