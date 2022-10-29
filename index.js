@@ -10,3 +10,6 @@ $(".rafael").on("click", function() {
 $(".guigas").on("click", function() {
     $(".guigas").show();
 })
+$(".livia").on("click", function() {
+    $(".livia").show();
+})
