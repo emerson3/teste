@@ -4,3 +4,6 @@ $(".motivacional").on("click", function() {
 $(".andreza").on("click", function() {
     $(".andreza").show();
 })
+$(".rafael").on("click", function() {
+    $(".rafael").show();
+})
