@@ -16,3 +16,6 @@ $(".livia").on("click", function() {
 $(".gabriel").on("click", function() {
     $(".gabriel").show();
 })
+$(".lucas").on("click", function() {
+    $(".lucas").show();
+})
