@@ -28,3 +28,6 @@ $(".Marcelo").on("click", function() {
 $(".laurytha").on("click", function() {
     $(".laurytha").show();
 })
+$(".gustavo").on("click", function() {
+    $(".gustavo").show();
+})
