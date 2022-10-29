@@ -25,3 +25,6 @@ $(".andressa").on("click", function() {
 $(".Marcelo").on("click", function() {
     $(".Marcelo").show();
 })
+$(".laurytha").on("click", function() {
+    $(".laurytha").show();
+})
