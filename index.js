@@ -13,3 +13,6 @@ $(".guigas").on("click", function() {
 $(".livia").on("click", function() {
     $(".livia").show();
 })
+$(".gabriel").on("click", function() {
+    $(".gabriel").show();
+})
