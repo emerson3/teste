@@ -7,3 +7,6 @@ $(".andreza").on("click", function() {
 $(".rafael").on("click", function() {
     $(".rafael").show();
 })
+$(".guigas").on("click", function() {
+    $(".guigas").show();
+})
