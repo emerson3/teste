@@ -13,3 +13,6 @@ $(".gabriel").on("click", function() {
 $(".lucas").on("click", function() {
     $(".lucas").show();
 })
+$(".gustavo").on("click", function() {
+    $(".gustavo").show();
+})
