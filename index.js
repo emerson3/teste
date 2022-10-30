@@ -22,3 +22,6 @@ $(".livia").on("click", function() {
 $(".andressa").on("click", function() {
     $(".andressa").show();
 })
+$(".andreza").on("click", function() {
+    $(".andreza").show();
+})
